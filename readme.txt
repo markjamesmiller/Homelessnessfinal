@@ -7,4 +7,22 @@ In order to see what you need to see, you should just click on the “Cells” a
 What was asked and what was found.  I found the largest decrease of homeless in all the CoCs in the USA over 10 years.  I figured that it could be inferred that those 5 CoCs were doing something right and it might be interesting to do some research on the practices of those CoCs and then maybe use those methods in CoCs that struggled more to reduce their homeless populations.  You can see that a Detroit, two Texas, one California, and one Georgia CoC made it to the top of the list.
 
 Also interesting, but not what I was actually trying to find, any of the ranges (far right value) at toward the bottom of the table that have negative numbers actually show a homeless population increase.  I can guess that some of these may be due to many people moving to those areas, but it would be interesting to look into that more.
+
+***Tips to Download***
+
+From the command line change directory into a working directory and run this clone command.
+
+git clone https://github.com/markjamesmiller/Homelessnessfinal.git
+
+Then change directory to './homelessnessfinal'
+
+Run Jupyter Notebook from this location.
+
+Open up the SQLlite.ipynb file.
+
+Do Run all from the Cells file menu.
+
+
+
+
  
